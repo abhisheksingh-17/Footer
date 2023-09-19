@@ -7,15 +7,14 @@ Whether you're building a personal blog, a business website, or an e-commerce pl
 
 ## Table Of Contents
 
-- [Installation]()
- - [Usage]()
- - [Acknowledgements]()
- - [Technologies Used]()
- - [Code Description]()
- - [Screenshots]()
- - [Future Scope]()
- - [Contributing]()
- - [License]()
+- [Installation](https://github.com/abhisheksingh-17/Footer/tree/main#installation)
+ - [Acknowledgements](https://github.com/abhisheksingh-17/Footer/tree/main#acknowledgements)
+ - [Technologies Used](https://github.com/abhisheksingh-17/Footer/tree/main#technologies-used)
+ - [Code Description](https://github.com/abhisheksingh-17/Footer/tree/main#code-description)
+ - [Screenshots](https://github.com/abhisheksingh-17/Footer/tree/main#screenshots)
+ - [Future Scope](https://github.com/abhisheksingh-17/Footer/tree/main#future-scope)
+ - [Contributing](https://github.com/abhisheksingh-17/Footer/tree/main#contributing)
+ - [License](https://github.com/abhisheksingh-17/Footer/tree/main#license)
 ## Installation
 
 1.Clone the Repository: Open your terminal or command prompt and navigate to the directory where you want to store the project. Then, run the following command to clone the repository:
@@ -83,6 +82,9 @@ This project's codebase is organized into the following key components and funct
 
 By understanding the organization of the code and the purpose of each file and component, you can easily customize the footer to align with your website's requirements.
 ## Screenshots
+
+Footer Section-
+![](https://github.com/abhisheksingh-17/Footer/blob/main/Result/1.png?raw=true)
 ## Future Scope
 
 While the current version of the footer project meets its primary objectives, there's always room for improvement and expansion. Here are some exciting possibilities for the future:
