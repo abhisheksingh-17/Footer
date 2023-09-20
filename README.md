@@ -17,11 +17,24 @@ Whether you're building a personal blog, a business website, or an e-commerce pl
  - [License](https://github.com/abhisheksingh-17/Footer/tree/main#license)
 ## Installation
 
-1.Clone the Repository: Open your terminal or command prompt and navigate to the directory where you want to store the project. Then, run the following command to clone the repository:
+1.Clone the Repository: 
+ - Open your terminal or command prompt and navigate to the directory where you want to store the project. Then, run the following command to clone the repository:
+
 ```bash
 git clone https://github.com/abhisheksingh-17/Landing-Page-Section.git
 
 ```
+ - Once the cloning process is complete, you'll have a local copy of the project.
+
+ - Navigate to the Project Folder:
+
+ - Change your working directory to the "Footer Section" folder within the "Landing Page Section" repository:
+
+```bash
+cd "Landing-Page-Section-Main/Footer Section"
+```
+ - Open the Project: Use your preferred code editor to open the project files.
+  
 2.Explore and Customize: Once the repository is cloned, you can explore the project files, including index.html and style.css. Customize the footer to fit your specific website's design and content requirements.
 
 3.Run Locally: You can open the index.html file in your web browser to preview the footer locally. Simply double-click the file to open it in your default web browser.
