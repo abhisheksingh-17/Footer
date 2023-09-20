@@ -47,9 +47,9 @@ Your support and contributions have been invaluable to me,and I appreciate the c
 
 This footer project was created using a combination of the following technologies, tools, and languages:
 
- - HTML5: The structure and content of the footer were built using HTML5, the latest version of the Hypertext Markup Language.
+  - HTML (Hypertext Markup Language): HTML is the core markup language used to structure and define the content of web pages. In this project, HTML is employed to create the layout and structure of the Services Section.
 
- - CSS4.15: CSS4.15 was used to style and format the footer, providing visual consistency and responsiveness.
+ - CSS (Cascading Style Sheets): CSS is used for styling and formatting the Services Section. The "style.css" file contains the CSS rules that define the visual appearance of the section, including fonts, colors, and layout.
 
  - Font Awesome: We incorporated Font Awesome to include social media icons, enhancing the footer's visual appeal and interactivity.
 
