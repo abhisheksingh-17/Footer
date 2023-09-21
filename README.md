@@ -49,11 +49,11 @@ start index.html
 
  - Fontawesome: I utilized fontawesome extensively during the project, which greatly facilitated the design and implementation of the footer.
 
- - Open Source Community: We acknowledge the incredible open-source community for providing a wealth of knowledge, resources, and inspiration for this project.
+ - Open Source Community: I acknowledge the incredible open-source community for providing a wealth of knowledge, resources, and inspiration for this project.
 
- - Online Tutorials and Documentation: Many thanks to various online tutorials and documentation sources that helped us overcome challenges and expand our knowledge.
+ - Online Tutorials and Documentation: Many thanks to various online tutorials and documentation sources that helped me overcome challenges and expand our knowledge.
 
- - Our Users: Last but not least, we are thankful to our users and the broader web community for their feedback and motivation to continually improve this footer.
+ - Our Users: Last but not least, I am thankful to our users and the broader web community for their feedback and motivation to continually improve this footer.
 
 Your support and contributions have been invaluable to me,and I appreciate the collaborative spirit that drives the success of open-source projects like this one.
 ## Technologies Used
